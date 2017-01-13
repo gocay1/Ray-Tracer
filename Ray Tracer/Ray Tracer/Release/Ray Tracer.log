@@ -1,0 +1,128 @@
+﻿  tracer.cpp
+tracer.cpp(88): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(89): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(96): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(97): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(112): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(113): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(114): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(120): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(121): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(122): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(138): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(139): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(147): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(148): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(188): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(189): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(198): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(199): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(206): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(207): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(221): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(222): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(223): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(364): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(365): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(366): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(379): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(389): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(401): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(476): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(490): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(502): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(535): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(536): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(537): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(550): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(563): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(575): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(620): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(664): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(665): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(742): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(743): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(744): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(757): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(775): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(791): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(886): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(904): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(920): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(957): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(958): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(959): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(972): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1000): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1024): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1091): warning C4305: '+=': truncation from 'double' to 'float'
+tracer.cpp(1092): warning C4305: '+=': truncation from 'double' to 'float'
+tracer.cpp(1094): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+tracer.cpp(1095): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+tracer.cpp(1106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1139): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1250): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1268): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1284): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1321): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1322): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1323): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1336): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1364): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1388): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+tracer.cpp(1471): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1472): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1473): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1474): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1493): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1494): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1497): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1499): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1500): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1509): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1515): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1516): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1522): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1523): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1533): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1534): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1538): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1539): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1543): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1544): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1548): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1549): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1552): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1553): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1554): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1557): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1558): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1559): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1562): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1563): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1564): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1567): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1568): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1569): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1572): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1573): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1577): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1578): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1582): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1583): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1586): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1587): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1592): warning C4305: 'argument': truncation from 'double' to 'float'
+tracer.cpp(1597): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  2 of 560 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Ray Tracer.vcxproj -> C:\Users\Tunc Gocay\Documents\Visual Studio 2015\Projects\Ray Tracer\Release\Ray Tracer.exe
+  Ray Tracer.vcxproj -> C:\Users\Tunc Gocay\Documents\Visual Studio 2015\Projects\Ray Tracer\Release\Ray Tracer.pdb (Full PDB)
